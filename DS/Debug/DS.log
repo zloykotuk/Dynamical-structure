@@ -1,0 +1,8 @@
+﻿  DS.cpp
+d:\vs pj\ds\ds\ds.cpp(52): warning C4101: ULL: неиспользованная локальная переменная
+d:\vs pj\ds\ds\ds.cpp(57): warning C4101: BL: неиспользованная локальная переменная
+d:\vs pj\ds\ds\ds.cpp(62): warning C4101: BLL: неиспользованная локальная переменная
+d:\vs pj\ds\ds\ds.cpp(69): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\conio.h(458): note:  см. объявление "kbhit"
+  DS.vcxproj -> D:\VS PJ\DS\Debug\DS.exe
+  DS.vcxproj -> D:\VS PJ\DS\Debug\DS.pdb (Partial PDB)
